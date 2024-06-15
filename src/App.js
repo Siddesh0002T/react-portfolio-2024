@@ -20,7 +20,8 @@ function App() {
      {/* main page content */}
      <div className="App__main-page-content">
      <Routes>
-      <Route index path="/" element={<Home/>}/>
+      <Route index path="/react-portfolio-2024/" or  element={<Home/>}/>
+      <Route path="/" or  element={<Home/>}/>
       <Route path="/about" element={<About/>}/>
       <Route path="/resume" element={<Resume/>}/>
       <Route path="/skills" element={<Skills/>}/>
