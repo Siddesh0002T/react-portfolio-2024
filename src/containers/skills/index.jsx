@@ -14,6 +14,7 @@ const Skills=()=>{
         />
 
     </section>
+    <h1>HELLO </h1>
     )
 }
 export default Skills;
