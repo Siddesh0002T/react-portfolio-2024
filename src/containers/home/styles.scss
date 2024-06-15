@@ -20,6 +20,7 @@
             overflow: hidden;
             white-space: nowrap;
             animation: typingEffectAnimation 2.5s steps(30,end);
+            
         }
     }
     &__contact-me{
@@ -36,6 +37,7 @@
             border: 1.5px solid var(--purple-theme-main-color);
             border-radius: 4px;
             font-weight: 500;
+            
 
             &:hover{
                 background: var(--purple-theme-main-color);
