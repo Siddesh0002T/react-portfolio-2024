@@ -14,7 +14,7 @@
 
             &__category-text{
                 display: inline-block;
-                color: var(--purple-theme-main-color);
+                color: var( --purple-theme-sub-text-color );
                 font-size: 22px;
                 font-weight: 700;
                 line-height: 1rem;
@@ -68,6 +68,6 @@
         }
     }
     .skills__content-wrapper__inner-content__progressbar-container{
-        margin-bottom: 20px;
+        margin-bottom: 6px;
     }
 }
